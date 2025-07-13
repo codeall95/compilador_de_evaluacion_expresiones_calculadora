@@ -1,0 +1,14 @@
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.csproj.AssemblyReference.cache
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.Properties.Resources.resources
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.csproj.GenerateResource.cache
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\MyCompiler.exe.config
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\MyCompiler.exe
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\MyCompiler.pdb
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\FastColoredTextBox.dll
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\FastColoredTextBox.xml
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.Form1.resources
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.csproj.CoreCompileInputs.cache
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.csproj.Up2Date
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.exe
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\obj\Debug\MyCompiler.pdb
+D:\SERGIO\materias\INF 3631 DISENO DE COMPILADORES\compilador ejemplo\MyCompiler\bin\Debug\NCalc.dll
